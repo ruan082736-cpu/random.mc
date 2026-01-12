@@ -1,0 +1,5 @@
+{
+  "name": "Commute Beats - Daily Playlist",
+  "description": "A minimalist music recommendation app that suggests 7 daily songs for your commute based on your preferred themes and genres, featuring a balanced 7:3 ratio of Korean and International tracks with direct YouTube links.",
+  "requestFramePermissions": []
+}
